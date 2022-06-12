@@ -1,0 +1,10 @@
+ask
+is;0;0
+is;1;1
+label;0
+out;0
+g;end
+label;1
+out;1
+g;1
+label;end
